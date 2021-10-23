@@ -56,7 +56,10 @@ If deploying to heroku this does not need to be run since it is handled by the h
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### 'Website Sceenshots'
-![alt text](https://drive.google.com/file/d/10EEdYjYow4uPeLNikg778c7sECx4alLm/view?usp=sharing)
+#### Suggestion to follow
+
+![alt text](https://github.com/omkarghule27/Instagram-Clone/blob/Instagram-Clone.git/Landning%20page%20and%20suggestions.png)
+
 
 
 
