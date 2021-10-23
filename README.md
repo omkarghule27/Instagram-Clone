@@ -62,8 +62,17 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ![alt text](https://github.com/omkarghule27/Instagram-Clone/blob/Instagram-Clone.git/Landning%20page%20and%20suggestions.png)
 
+#### Edit Profile page
 
+![alt text](https://github.com/omkarghule27/Instagram-Clone/blob/Instagram-Clone.git/Edit%20Profile.png)
 
+#### Profile Detail page
+
+![alt text](https://github.com/omkarghule27/Instagram-Clone/blob/Instagram-Clone.git/Profile%20Detail%20page.png)
+
+#### Upload post 
+
+![alt text](https://github.com/omkarghule27/Instagram-Clone/blob/Instagram-Clone.git/Upload%20Post.png)
 
 ## Learn More
 
